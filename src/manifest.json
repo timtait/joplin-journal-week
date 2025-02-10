@@ -1,0 +1,16 @@
+{
+	"manifest_version": 1,
+	"id": "nz.co.timtait.journal-week",
+	"app_min_version": "3.2",
+	"version": "1.0.0",
+	"name": "JournalWeek",
+	"description": "Generate a blank journal template for the week",
+	"author": "Tim Tait",
+	"homepage_url": "",
+	"repository_url": "github.com/timtiat/joplin-journal-week",
+	"keywords": [],
+	"categories": [],
+	"screenshots": [],
+	"icons": {},
+	"promo_tile": {}
+}
